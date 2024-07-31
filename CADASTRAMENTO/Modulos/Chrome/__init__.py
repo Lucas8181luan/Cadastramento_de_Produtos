@@ -27,7 +27,7 @@ def acessar_site():
     pyautogui.press("enter")
     # ABRIU CHROME - PRONTO
     time.sleep(5)
-    link_do_site = "https://dlp.hashtagtreinamentos.com/python/intensivao/login"
+    link_do_site = "https://dlp.hashtagtreinamentos.com/python/intensivao/login" # LINK DO SITE DE CADASTRAMENTO
     # LINK PARA ACESSAR O SITE - PRONTO
     pyautogui.write(link_do_site)
     time.sleep(1)
