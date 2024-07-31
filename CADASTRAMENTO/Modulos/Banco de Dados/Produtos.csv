@@ -1,0 +1,31 @@
+Código do produto,Marca do Produto,Tipo do Produto,Categoria do Produto,Preço Unitário do Produto,Custo do Produto,OBS
+1,Logitech,Teclado,Periféricos,150.00,Calculado,Teclado mecânico
+2,Microsoft,Mouse,Periféricos,60.00,Calculado,Mouse óptico
+3,Dell,Monitor,Eletrônicos,1200.00,Calculado,Monitor LCD 24 Pol
+4,Lenovo,Notebook,Eletrônicos,3500.00,Calculado,Notebook i5
+5,HP,Impressora,Eletrônicos,800.00,Calculado,Impressora Laser
+6,Logitech,Webcam,Periféricos,100.00,Calculado,Webcam HD
+7,Razer,Headset,Áudio,200.00,Calculado,Headset Gamer
+8,Corsair,Mousepad,Periféricos,25.00,Calculado,Mousepad Grande
+9,Kingston,Pen Drive,Armazenamento,45.00,Calculado,Pen Drive 64GB
+10,Lenovo,Teclado,Periféricos,70.00,Calculado,Teclado Numérico
+11,SteelSeries,Cadeira,Móveis,600.00,Calculado,Cadeira Ergonômica
+12,Belkin,Adaptador,Acessórios,50.00,Calculado,Adaptador USB-C
+13,Samsung,Smartphone,Eletrônicos,1200.00,Calculado,Smartphone Android
+14,TP-Link,Hub USB,Acessórios,30.00,Calculado,Hub USB 3.0
+15,Amazon Basics,Cabo HDMI,Acessórios,20.00,Calculado,Cabo HDMI
+16,Anker,Carregador,Acessórios,75.00,Calculado,Carregador Portátil
+17,Fellowes,Suporte,Móveis,35.00,Calculado,Suporte para Notebook
+18,Epson,Scanner,Eletrônicos,450.00,Calculado,Scanner Documentos
+19,Blue Microphones,Microfone,Áudio,150.00,Calculado,Microfone Condensador
+20,JBL,Alto-Falante,Áudio,120.00,Calculado,Alto-Falante Bluetooth
+21,Faber-Castell,Borracha,Papelaria,2.50,Calculado,Borracha Faber-Castell
+22,Samsung,SSD Externo,Armazenamento,250.00,Calculado,SSD Externo
+23,LG,Monitor UltraWide,Eletrônicos,1500.00,Calculado,Monitor UltraWide
+24,Sony,Fone de Ouvido,Áudio,180.00,Calculado,Fone de Ouvido Bluetooth
+25,Apple,Carregador sem Fio,Acessórios,50.00,Calculado,Carregador sem Fio
+26,Nikon,Câmera DSLR,Fotografia,2000.00,Calculado,Câmera DSLR
+27,Bose,Fones de Ouvido,Áudio,300.00,Calculado,Fones de Ouvido
+28,WD,Disco Rígido Externo,Armazenamento,120.00,Calculado,Disco Rígido Externo
+29,Dell,Docking Station,Acessórios,180.00,Calculado,Docking Station
+30,Microsoft,Teclado sem Fio,Periféricos,80.00,Calculado,Teclado sem Fio
